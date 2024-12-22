@@ -7,3 +7,5 @@
 ● Ссылка на тестовый набор в [QASE](https://app.qase.io/project/G9?author=245)
 
 ● Тест ран на основании текст-кейсов в системы Qase.io для [Registration and Authorization](https://github.com/Ulyana-Vlasenko/docs/blob/main/Test%20run%20Registration%20and%20Authorization.pdf) и [Product Catalog](https://github.com/Ulyana-Vlasenko/docs/blob/main/Test%20run%20Product%20catalog.pdf)
+
+● [Отчет](https://github.com/Ulyana-Vlasenko/docs/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B%20%D0%BE%20%D0%B4%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B5%20%D0%B2%20yourtrack.xlsx) о найденных дефектах на основании чек-листа и тестовых кейсов для регистрации, логина и каталога.
